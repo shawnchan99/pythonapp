@@ -1,0 +1,9 @@
+Use "docker build" command to build a docker image based on Dockerfile.
+
+File status code revealed the git repo status of the file as shown in VSCODE;
+
+U = untracked
+M = tracked previously but modified currently without further committed.
+
+Both U and M required commit before pushing to remote repo.
+
